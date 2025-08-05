@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+I am an enthusiastic and driven Computer Science Engineering student at Sree Narayana Gurukulam College of Engineering, Kadayiruppu, with a deep passion for problem-solving, software development, and emerging technologies. My interests span across Data Science, Artificial Intelligence and Web Development and I actively work on projects that combine creativity with technical expertise. I have hands-on experience in developing innovative solutions from AI-powered productivity tools to intelligent system designs and I am constantly exploring ways to contribute to the tech community through open-source contributions, collaborative projects, and knowledge sharing. 
 
 
 ## Portfolio Highlights
